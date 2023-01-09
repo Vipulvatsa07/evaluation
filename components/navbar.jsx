@@ -14,7 +14,7 @@ const Navbar = () => {
 
     <div style={{display:"flex",justifyContent:"space-around",backgroundColor:"black"}}>
     <h1> <Link style={{color:"white"}} href="/">Home</Link></h1>
-    <h1> <Link style={{color:"white"}} href="/project">Project</Link></h1>
+    <h1> <Link style={{color:"white"}} href="/project">Projects</Link></h1>
     </div>
 
     </div>
